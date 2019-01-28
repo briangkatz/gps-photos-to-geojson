@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "gpsphoto_output",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "image": "20190128_143040.jpg", "timestamp": "2019\/01\/28 14:30:40" }, "geometry": { "type": "Point", "coordinates": [ -123.278071972, 44.565584 ] } },
+{ "type": "Feature", "properties": { "image": "20190128_143159.jpg", "timestamp": "2019\/01\/28 14:31:59" }, "geometry": { "type": "Point", "coordinates": [ -123.278071972, 44.565584 ] } },
+{ "type": "Feature", "properties": { "image": "20190128_143258.jpg", "timestamp": "2019\/01\/28 14:32:58" }, "geometry": { "type": "Point", "coordinates": [ -123.280427, 44.565873 ] } },
+{ "type": "Feature", "properties": { "image": "20190128_143419.jpg", "timestamp": "2019\/01\/28 14:34:19" }, "geometry": { "type": "Point", "coordinates": [ -123.279357, 44.565309972199998 ] } },
+{ "type": "Feature", "properties": { "image": "20190128_143445.jpg", "timestamp": "2019\/01\/28 14:34:45" }, "geometry": { "type": "Point", "coordinates": [ -123.278964, 44.5657959722 ] } },
+{ "type": "Feature", "properties": { "image": "20190128_143508.jpg", "timestamp": "2019\/01\/28 14:35:08" }, "geometry": { "type": "Point", "coordinates": [ -123.278964, 44.5657959722 ] } }
+]
+}
