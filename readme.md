@@ -20,9 +20,10 @@
 
 ### Implementation
 
-1. Run `pycharm-pyqis.bat`. PyCharm will open, aware of paths for QGIS and its Python library.
-2. Ensure PyCharm interpreter settings are configured to the OSGeo4W `python.exe`
-3. Move GPS-tagged photos into the `inputs` directory.
-4. Run the `gps-photos-to-geojson.py` script.
-5. Open the `outputs` folder to view resulting GeoJSON file, as well as intermediate CSV and JSON files.
-6. Drag the GeoJSON file into a QGIS interface to see it mapped.
+1. Clone this repository
+2. Run `pycharm-pyqis.bat`. PyCharm will open, aware of paths for QGIS and its Python library.
+3. Ensure PyCharm interpreter settings are configured to the OSGeo4W `python.exe`
+4. Move GPS-tagged photos into the `inputs` directory.
+5. Run the `gps-photos-to-geojson.py` script.
+6. Open the `outputs` folder to view resulting GeoJSON file, as well as intermediate CSV and JSON files.
+7. Drag the GeoJSON file into a QGIS interface to see it mapped.
