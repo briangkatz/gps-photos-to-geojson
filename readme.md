@@ -1,4 +1,4 @@
-## Convert GPS-tagged Photos to GeoJSON using Python and QGIS
+## Convert GPS-tagged photos to GeoJSON using Python and QGIS
 
 ### Dependencies
 
