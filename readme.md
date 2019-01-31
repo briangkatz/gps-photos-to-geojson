@@ -1,5 +1,7 @@
 ## Convert GPS-tagged photos to GeoJSON using Python and QGIS
 
+![Screenshot of GeoJSON result](screenshot.png)
+
 ### Dependencies
 
 - [OSGeo4W](https://trac.osgeo.org/osgeo4w/) (QGIS)
